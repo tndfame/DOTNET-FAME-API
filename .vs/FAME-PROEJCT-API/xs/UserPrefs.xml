@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{9C19F1F8-B63C-4B01-A8CC-C631D070846B}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.FAME-PROEJCT-API FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FAME-PROEJCT-API/Context/ApplicationDbContext.cs">
+    <Files>
+      <File FileName="FAME-PROEJCT-API/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+      <File FileName="FAME-PROEJCT-API/Controllers/AdmiunUserController.cs" Line="16" Column="10" />
+      <File FileName="FAME-PROEJCT-API/Models/Entity/AdminUser.cs" Line="27" Column="6" />
+      <File FileName="FAME-PROEJCT-API/Context/ApplicationDbContext.cs" Line="8" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FAME-PROEJCT-API" expanded="True">
+            <Node name="FAME-PROEJCT-API" expanded="True">
+              <Node name="Context" expanded="True">
+                <Node name="ApplicationDbContext.cs" selected="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Entity" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
